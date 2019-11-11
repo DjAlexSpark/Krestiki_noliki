@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a87f1b9-c60b-4513-8ed2-ab2a10c9a6ca" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Krestiki_noliki" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1RmSTOKvQCt1guxRgC0nNn145v6" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="krestiki_noliki.v3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\33\IdeaProjects\Krestiki_noliki\src\krestiki_noliki\v4" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.A">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="krestiki_noliki.CodeWars.A" />
+      <module name="Krestiki_noliki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="krestiki_noliki.CodeWars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="krestiki_noliki.GPU.v1.Main" />
+      <module name="Krestiki_noliki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="krestiki_noliki.GPU.v1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="krestiki_noliki.v2.Nose" />
+      <module name="Krestiki_noliki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="krestiki_noliki.v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="krestiki_noliki (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="krestiki_noliki.v4.krestiki_noliki" />
+      <module name="Krestiki_noliki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="krestiki_noliki.v4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="krestiki_noliki" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="krestiki_noliki.v3.krestiki_noliki" />
+      <module name="Krestiki_noliki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="krestiki_noliki.v3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.A" />
+        <item itemvalue="Application.krestiki_noliki (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.krestiki_noliki" />
+        <item itemvalue="Application.Nose" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a87f1b9-c60b-4513-8ed2-ab2a10c9a6ca" name="Default Changelist" comment="" />
+      <created>1570270786367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570270786367</updated>
+      <workItem from="1570270805275" duration="2612000" />
+      <workItem from="1570279993641" duration="2793000" />
+      <workItem from="1570286682755" duration="266000" />
+      <workItem from="1570356483922" duration="6743000" />
+      <workItem from="1570445585709" duration="946000" />
+      <workItem from="1570448771212" duration="574000" />
+      <workItem from="1570499098021" duration="599000" />
+      <workItem from="1570514959995" duration="19654000" />
+      <workItem from="1570681484849" duration="4679000" />
+      <workItem from="1571130151232" duration="611000" />
+      <workItem from="1571312436969" duration="3832000" />
+      <workItem from="1571328162332" duration="388000" />
+      <workItem from="1571328590592" duration="15000" />
+      <workItem from="1571365376658" duration="6979000" />
+      <workItem from="1571398796280" duration="2221000" />
+      <workItem from="1571416308800" duration="571000" />
+      <workItem from="1571442833959" duration="4052000" />
+      <workItem from="1571537057400" duration="3917000" />
+      <workItem from="1571563716921" duration="1399000" />
+      <workItem from="1571648553853" duration="2910000" />
+      <workItem from="1571714748852" duration="2154000" />
+      <workItem from="1571801524555" duration="3182000" />
+      <workItem from="1571828553396" duration="1615000" />
+      <workItem from="1571884603573" duration="2706000" />
+      <workItem from="1571998314261" duration="2452000" />
+      <workItem from="1572361984587" duration="83000" />
+      <workItem from="1572362263281" duration="1912000" />
+      <workItem from="1572513043904" duration="3012000" />
+      <workItem from="1572524975035" duration="2284000" />
+      <workItem from="1572614449469" duration="1957000" />
+      <workItem from="1572616465679" duration="2906000" />
+      <workItem from="1572626174676" duration="945000" />
+      <workItem from="1572672230855" duration="2638000" />
+      <workItem from="1572744076651" duration="15572000" />
+      <workItem from="1572862384761" duration="1273000" />
+      <workItem from="1572863721227" duration="1528000" />
+      <workItem from="1572865778873" duration="83000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

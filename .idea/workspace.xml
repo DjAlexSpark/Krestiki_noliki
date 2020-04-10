@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a87f1b9-c60b-4513-8ed2-ab2a10c9a6ca" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="5a87f1b9-c60b-4513-8ed2-ab2a10c9a6ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/META-INF/Krestiki_noliki.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/CodeWars/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/GPU/v1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/GPU/v1/Method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/v1/Glass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/v2/Nose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/v3/GetFull.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/v3/GetPrint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/v3/Turns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/v3/krestiki_noliki.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/v4/ArrayDoings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/v4/ArrayDoings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/v4/krestiki_noliki.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/v4/krestiki_noliki.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/krestiki_noliki/v4/ArrayDoings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/krestiki_noliki/v4/ArrayDoings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/krestiki_noliki/v4/krestiki_noliki.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/krestiki_noliki/v4/krestiki_noliki.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +54,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -49,7 +68,14 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1RmSTOKvQCt1guxRgC0nNn145v6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -63,6 +89,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
@@ -73,19 +100,7 @@
       <recent name="C:\Users\33\IdeaProjects\Krestiki_noliki\src\krestiki_noliki\v4" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.A">
+  <component name="RunManager" selected="Application.krestiki_noliki (1)">
     <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="krestiki_noliki.CodeWars.A" />
       <module name="Krestiki_noliki" />
@@ -153,8 +168,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A" />
         <item itemvalue="Application.krestiki_noliki (1)" />
+        <item itemvalue="Application.A" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.krestiki_noliki" />
         <item itemvalue="Application.Nose" />
@@ -213,5 +228,40 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1586439929966">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/-1366.258.1366.738/0.0.1280.994@-1366.258.1366.738" timestamp="1586094493544" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1280.994@0.0.1280.994" timestamp="1586439929966" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-257.1280.994@0.0.1366.738" timestamp="1586246033619" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1586439929966">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/-1366.258.1366.738/0.0.1280.994@-1366.258.1366.738" timestamp="1586094493544" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1280.994@0.0.1280.994" timestamp="1586439929966" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738/1366.-257.1280.994@0.0.1366.738" timestamp="1586246033619" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1586439929966">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/-1366.258.1366.738/0.0.1280.994@-1366.258.1366.738" timestamp="1586094493544" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1280.994@0.0.1280.994" timestamp="1586439929966" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738/1366.-257.1280.994@0.0.1366.738" timestamp="1586246033619" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1586439929966">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/-1366.258.1366.738/0.0.1280.994@-1366.258.1366.738" timestamp="1586094493544" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1280.994@0.0.1280.994" timestamp="1586439929966" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738/1366.-257.1280.994@0.0.1366.738" timestamp="1586246033619" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1586246126419">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.-248.1280.994@0.0.1366.738" timestamp="1586074150995" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.-257.1280.994@0.0.1366.738" timestamp="1586246126419" />
+    <state x="65" y="0" key="new project wizard" timestamp="1586396565026">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.738/1366.-257.1280.994@0.0.1366.738" timestamp="1586396565026" />
   </component>
 </project>

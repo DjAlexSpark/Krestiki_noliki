@@ -1,14 +1,25 @@
 package krestiki_noliki.v4;
 
 public class ArrayDoings {
+    private final int testToGitHub = 1;
     private char DOT_X = 'X';
     private char DOT_O='O';
     private char DOT_N='*';
     private int size ;
    // private char[][] arr;
 String s;
+public char[][] ArrayDoings(char[][]arr, int size, char DOT_N){
+    System.out.println("get full array");
+    for(int i=0;i<size;i++) {
+        for (int j = 0; j < size; j++) {
+            arr[i][j]=DOT_N;
+            System.out.println(testToGitHub);
+        }
+    }
+    return arr;
+}
+
     public static char[][] getFull(char[][]arr,int size, char DOT_N){
-        ArrayDoings a= new ArrayDoings();
         for(int i=0;i<size;i++) {
             for (int j = 0; j < size; j++) {
                 arr[i][j]=DOT_N;
@@ -49,25 +60,8 @@ String s;
     public void setSize(int size) {
         this.size = size;
     }
-//end
 
- /*   //getArr
-    public char[][] getArr() {
 
-        return arr;
-    }
-*/
-  /*  public char[][] setArr(char[][] arr) {
-       // public static char[][] getFull(int size, char DOT_N){
-        this.arr = arr;
-            for(int i=0;i<size;i++) {
-                for (int j = 0; j < size; j++) {
-                    arr[i][j]=getDOT_N();
-
-                }
-            }
-            return arr;
-        }*/
 
     }
 

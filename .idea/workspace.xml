@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a87f1b9-c60b-4513-8ed2-ab2a10c9a6ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/META-INF/Krestiki_noliki.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/CodeWars/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/GPU/v1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/GPU/v1/Method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/v1/Glass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/v2/Nose.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/v3/GetFull.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/v3/GetPrint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/v3/Turns.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/v3/krestiki_noliki.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/v4/ArrayDoings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/v4/ArrayDoings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/v4/krestiki_noliki.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Krestiki_noliki/krestiki_noliki/v4/krestiki_noliki.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/krestiki_noliki/v4/ArrayDoings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/krestiki_noliki/v4/ArrayDoings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/krestiki_noliki/v4/krestiki_noliki.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/krestiki_noliki/v4/krestiki_noliki.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,30 +215,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1586439929966">
-      <screen x="0" y="0" width="1280" height="994" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1586575841472">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1323" height="182" key="GridCell.Tab.0.bottom/-1366.258.1366.738/0.0.1280.994@-1366.258.1366.738" timestamp="1586094493544" />
     <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1280.994@0.0.1280.994" timestamp="1586439929966" />
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-257.1280.994@0.0.1366.738" timestamp="1586246033619" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1586439929966">
-      <screen x="0" y="0" width="1280" height="994" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-257.1280.994@0.0.1366.738" timestamp="1586575841472" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1586575841471">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1323" height="182" key="GridCell.Tab.0.center/-1366.258.1366.738/0.0.1280.994@-1366.258.1366.738" timestamp="1586094493544" />
     <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1280.994@0.0.1280.994" timestamp="1586439929966" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738/1366.-257.1280.994@0.0.1366.738" timestamp="1586246033619" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1586439929966">
-      <screen x="0" y="0" width="1280" height="994" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738/1366.-257.1280.994@0.0.1366.738" timestamp="1586575841471" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1586575841471">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1323" height="182" key="GridCell.Tab.0.left/-1366.258.1366.738/0.0.1280.994@-1366.258.1366.738" timestamp="1586094493544" />
     <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1280.994@0.0.1280.994" timestamp="1586439929966" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738/1366.-257.1280.994@0.0.1366.738" timestamp="1586246033619" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1586439929966">
-      <screen x="0" y="0" width="1280" height="994" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738/1366.-257.1280.994@0.0.1366.738" timestamp="1586575841471" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1586575841472">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1323" height="182" key="GridCell.Tab.0.right/-1366.258.1366.738/0.0.1280.994@-1366.258.1366.738" timestamp="1586094493544" />
     <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1280.994@0.0.1280.994" timestamp="1586439929966" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738/1366.-257.1280.994@0.0.1366.738" timestamp="1586246033619" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738/1366.-257.1280.994@0.0.1366.738" timestamp="1586575841472" />
     <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1586246126419">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
